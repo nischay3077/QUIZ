@@ -11,7 +11,6 @@ The player's score is tracked throughout the game.
 The game gives feedback after each answer (correct or incorrect).
 
 ## How It Works:
-![screenshot](nischay project.png)
 The game starts with an introduction and explains the number of lifelines the player has.
 The player is asked a series of multiple-choice questions.
 After entering an answer, the program checks if it is correct:
@@ -33,6 +32,6 @@ Contribution are welcome!If you have any ideas for improvements , open an issue 
 ## Developer:
 Nischay Samant
 ## Contacts:
-Email-samsamant3077@gmail.com
-GitHub-GitHub Profile
+Email - (samsamant3077@gmail.com)  
+GitHub - (https://github.com/nischay3077)
 
