@@ -12,6 +12,7 @@ This C program is a simple quiz game where the user answers multiple-choice ques
 * The game gives feedback after each answer (correct or incorrect).
 
 ## How It Works:
+![nischay](https://github.com/user-attachments/assets/8ede21a7-837a-4033-a272-deb0c5be4831)
 The game starts with an introduction and explains the number of lifelines the player has.
 The player is asked a series of multiple-choice questions.
 After entering an answer, the program checks if it is correct:
