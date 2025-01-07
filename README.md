@@ -1,14 +1,14 @@
-# QUIZ GAME
+#QUIZ GAME
 ## Description:
 This C program is a simple quiz game where the user answers multiple-choice questions. The game consists of 15 questions, and the player starts with 5 lifelines. For each incorrect answer, one lifeline is lost. If the player runs out of lifelines, the game ends. The goal is to answer as many questions correctly as possible while conserving lifelines. The player's final score is displayed at the end of the game.
 
 ## Features:
-15 general knowledge questions.
-The player starts with 5 lifelines.
-The player loses one lifeline for each incorrect answer.
-The game ends if the player runs out of lifelines.
-The player's score is tracked throughout the game.
-The game gives feedback after each answer (correct or incorrect).
+* 15 general knowledge questions.
+* The player starts with 5 lifelines.
+* The player loses one lifeline for each incorrect answer.
+* The game ends if the player runs out of lifelines.
+* The player's score is tracked throughout the game.
+* The game gives feedback after each answer (correct or incorrect).
 
 ## How It Works:
 The game starts with an introduction and explains the number of lifelines the player has.
