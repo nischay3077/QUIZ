@@ -1,4 +1,5 @@
 # `QUIZ GAME`
+![desktop-wallpaper-quiz-test](https://github.com/user-attachments/assets/81181639-734c-47c2-8913-384e6169d8dd)
 ## Description:
 This C program is a simple quiz game where the user answers multiple-choice questions. The game consists of 15 questions, and the player starts with 5 lifelines. For each incorrect answer, one lifeline is lost. If the player runs out of lifelines, the game ends. The goal is to answer as many questions correctly as possible while conserving lifelines. The player's final score is displayed at the end of the game.
 
